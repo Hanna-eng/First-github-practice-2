@@ -1,2 +1,2 @@
-# First-github-practice-2
+# First_github_practice-2
 practice repo
